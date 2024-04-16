@@ -9,6 +9,7 @@
             <div class="nav-list">
                 <a>Route params:</a>
                 <nav><NuxtLink to="/products">Static product list</NuxtLink></nav>
+                <nav><NuxtLink to="/pokemons">Fetched pokemon list</NuxtLink></nav>
             </div>
         </div>
     </Header>
